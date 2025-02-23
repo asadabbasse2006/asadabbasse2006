@@ -33,8 +33,10 @@ Enhancing my problem-solving skills through competitive programming.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/asadabbasse2006
+💼 [LinkedIn]( linkedin.com/in/asadabbasse2006)
 
-📧 Email: asadse2006@gmail.com
+📧 [Email]( asadse2006@gmail.com)
 
-🌐 GitHub: asadabbasse2006
+🌐 [GitHub]( asadabbasse2006)
+
+Thanks for visiting my profile. Have a nice day!
