@@ -33,10 +33,9 @@ Enhancing my problem-solving skills through competitive programming.
 
 ## 📫 Connect With Me
 
-💼 [LinkedIn]( linkedin.com/in/asadabbasse2006)
-
-📧 [Email]( asadse2006@gmail.com)
-
-🌐 [GitHub]( asadabbasse2006)
+<a href="https://www.linkedin.com/in/asadabbasse2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asad Abbas" height="30" width="40" /></a>
+<a href="https://instagram.com/asadabbasse2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Asad Abbas" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/asadabbasse2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asad Abbas" height="30" width="40" /></a>
+</p>
 
 Thanks for visiting my profile. Have a nice day!
