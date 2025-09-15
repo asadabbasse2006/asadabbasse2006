@@ -13,9 +13,9 @@ I'm an aspiring Software Engineer passionate about coding, problem-solving, and 
 
 ## 🌟 Featured Projects
 🏣 Hospital Management System - A GUI-based system built using JavaFX.<br>
-⏱ Stopwatch - A GUI-based system built using Java swing.
-🖩 Calculator App – A GUI-based calculator built using Java Swing.  
-🖩 Java Fundamentals - Basics in Java is almost clear  
+⏱ Stopwatch - A GUI-based system built using Java swing.<br>
+🖩 Calculator App – A GUI-based calculator built using Java Swing.<br>  
+🖩 Java Fundamentals - Basics in Java is almost clear<br>  
 🌐 Portfolio Website – A personal website showcasing my projects and skills.  
 
 ## 📌 What I'm Currently Working On
