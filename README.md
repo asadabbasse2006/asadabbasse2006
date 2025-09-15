@@ -1,3 +1,5 @@
+## <h1 text-align = center>Asad Abbas</h1>
+
 # 💫 About Me:
 I'm currently working on real world projects of python.<br>I'm trying to dive deep into Data Structures & Algorithms.<br>I'm still exploring Flask and APIs
 
@@ -11,6 +13,9 @@ I'm currently working on real world projects of python.<br>I'm trying to dive de
 ![](https://github-readme-stats.vercel.app/api?username=asadabbasse2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=asadabbasse2006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadabbasse2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/asadabbasse2006?ext=heatmap)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=asadabbasse2006&icon=0&color=0)](https://visitcount.itsvg.in)
