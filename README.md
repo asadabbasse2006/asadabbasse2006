@@ -35,7 +35,7 @@ Enhancing my problem-solving skills through competitive programming.
 
 <a href="https://www.linkedin.com/in/asadabbasse2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asad Abbas" height="30" width="40" /></a>
 <a href="https://instagram.com/asadabbasse2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Asad Abbas" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/asad_abbas_se_2006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asad Abbas" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/asadabbasse2006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asad Abbas" height="30" width="40" /></a>
 </p>
 
 Thanks for visiting my profile. Have a nice day!
