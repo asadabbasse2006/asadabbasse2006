@@ -3,7 +3,10 @@
 </div>
 
 # 💫 About Me:
-I'm currently working on real world projects of python.<br>I'm trying to dive deep into Data Structures & Algorithms.<br>I'm still exploring Flask and APIs
+🚀 I'm currently working on **real world projects** of Python.<br>  
+📚 I'm trying to **dive deep into Data Structures & Algorithms**.<br>  
+🌐 I'm still exploring **Flask and APIs**.<br>  
+💡 Passionate about **problem-solving and building impactful software**.<br>  
 
 
 ## 🌐 Socials:
