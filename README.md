@@ -12,7 +12,7 @@ I'm an aspiring Software Engineer passionate about coding, problem-solving, and 
 🔹 Version Control (Git & GitHub)  
 
 ## 🌟 Featured Projects
-🏣 Hospital Management System - A GUI-based system built using JavaFX."\n"
+🏣 Hospital Management System - A GUI-based system built using JavaFX.<br>
 ⏱ Stopwatch - A GUI-based system built using Java swing.
 🖩 Calculator App – A GUI-based calculator built using Java Swing.  
 🖩 Java Fundamentals - Basics in Java is almost clear  
