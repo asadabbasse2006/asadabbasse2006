@@ -1,85 +1,105 @@
-<div align="center">
+# Asad Abbas | Software Engineering Student
 
-# Asad Abbas
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asadabbasse2006&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-**Software Engineering Student · COMSATS University Islamabad**
-
-*Building things that matter with Python & Java*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadabbasse2006)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/asadabbasse2006)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/asadabbasse2006)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asadse2006@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/asad_abbas_se_2006)
-
-</div>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&width=650&lines=Asad+Abbas;Software+Engineering+Student;Flutter+%7C+Django+%7C+Python+Developer;Firebase+%7C+Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing Animation" />
+</p>
 
 ---
 
 ## About Me
 
-- 🚀 Building real-world Python projects and deepening backend skills with **Flask & REST APIs**
-- 📐 Grinding **Data Structures & Algorithms** on LeetCode — consistency over intensity
-- 🎓 3rd-year **Software Engineering** student · GPA **3.50 / 4.0** · COMSATS University Islamabad
-- 💡 Passionate about clean architecture, impactful software, and continuous improvement
-- 🔍 Actively seeking **internship opportunities** in software development
+- 🎓 Software Engineering student at COMSATS University.
+- 💻 Passionate about mobile app development, backend systems, and AI.
+- 🚀 Skilled in Flutter, Django, Python, Firebase, and REST APIs.
+- 📚 Currently learning Machine Learning and advanced backend development.
+- 🛠️ Building real-world academic and personal projects.
+- 🌱 Always exploring new technologies and improving problem-solving skills.
 
 ---
 
-## Tech Stack
+## Skills & Technologies
 
-**Languages**
+<p align="left">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  
+  <!-- Database & Backend -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+</p>
 
-**Frameworks & Libraries**
+---
 
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white)
+## Projects
 
-**Databases**
+### 🚍 COMSATS Transport Management System (CTMS)
+- Developed a transport management system using Django.
+- Features include route management, bus tracking, and student transport records.
+- Focused on clean UI, efficient backend, and database management.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+### 📱 Flutter Firebase Applications
+- Built multiple Flutter applications integrated with Firebase.
+- Implemented authentication, Firestore database, and real-time features.
 
-**Tools & Design**
+### 🤖 Machine Learning Journey
+- Currently exploring NumPy, Pandas, and foundational ML concepts.
+- Learning data preprocessing and model development.
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadabbasse2006)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadabbasse2006&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=asadabbasse2006&theme=github-dark-blue&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asadabbasse2006&show_icons=true&theme=tokyonight" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadabbasse2006&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadabbasse2006&theme=github_dark&hide_border=true&layout=compact" width="40%" />
-</p>
-
-## LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/asadabbasse2006?ext=heatmap&theme=dark&font=baloo&bg=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadabbasse2006&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-<div align="center">
+## Quote
 
-*Open to internship opportunities · Let's connect and build something great*
+<p align="center">
+  <i>"Consistency and curiosity are the keys to becoming a great developer."</i>
+</p>
 
-![Profile Views](https://visitcount.itsvg.in/api?id=asadabbasse2006&icon=0&color=0)
+---
 
-</div>
+⭐ Thank you for visiting my profile.  
+I am always open to collaboration, learning opportunities, and innovative software development projects.
