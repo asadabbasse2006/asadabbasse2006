@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&width=650&lines=Asad+Abbas;Software+Engineering+Student;Flutter+%7C+Django+%7C+Python+Developer;Firebase+%7C+Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&width=650&lines=Asad+Abbas;Software+Engineering+Student;Python+Developer+%7C+Django;Machine+Learning+Enthusiast;Open+Source+Learner" alt="Typing Animation" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 - 🎓 Software Engineering student at COMSATS University.
 - 💻 Passionate about mobile app development, backend systems, and AI.
-- 🚀 Skilled in Flutter, Django, Python, Firebase, and REST APIs.
+- 🚀 Skilled in Django, Python, and REST APIs.
 - 📚 Currently learning Machine Learning and advanced backend development.
 - 🛠️ Building real-world academic and personal projects.
 - 🌱 Always exploring new technologies and improving problem-solving skills.
@@ -29,15 +29,11 @@
   
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   
   <!-- Database & Backend -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   
   <!-- Tools -->
@@ -56,10 +52,6 @@
 - Developed a transport management system using Django.
 - Features include route management, bus tracking, and student transport records.
 - Focused on clean UI, efficient backend, and database management.
-
-### 📱 Flutter Firebase Applications
-- Built multiple Flutter applications integrated with Firebase.
-- Implemented authentication, Firestore database, and real-time features.
 
 ### 🤖 Machine Learning Journey
 - Currently exploring NumPy, Pandas, and foundational ML concepts.
