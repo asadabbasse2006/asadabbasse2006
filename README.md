@@ -80,6 +80,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadabbasse2006&theme=tokyonight" height="170"/>
 </p>
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/asadabbasse2006?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
 <!-- Animated Snake eating contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadabbasse2006/asadabbasse2006/output/github-contribution-grid-snake-dark.svg">
