@@ -6,7 +6,7 @@
 
 <a href="https://asadabbasse2006.github.io"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:asadse2006@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/asadabbasse2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/asadabbasse2006"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=asadabbasse2006&label=Profile%20views&color=3B82F6&style=flat-square" alt="views"/>
