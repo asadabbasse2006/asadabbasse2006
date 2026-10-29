@@ -1,113 +1,106 @@
-# Hi there, I'm Asad Abbas 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+<!-- Save this file as README.md inside a repo named exactly: asadabbasse2006 (same as your username) -->
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asadabbasse2006&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<div align="center">
 
-<!-- Animated Banner GIF / Coding Vector -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:3B82F6,100:06B6D4&height=200&section=header&text=Asad%20Abbas&fontSize=56&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%26%20Backend%20Software%20Engineer&descSize=20&descAlignY=60" alt="header" width="100%"/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0E75B6&center=true&width=650&lines=Software+Engineering+Student;Python+Developer+%7C+FastAPI;Exploring+AI+Agents,+LLMs,+%26+RAG;Building+Intelligent+Backend+Systems;Open+Source+Learner" alt="Typing Animation" />
-  </a>
-</p>
+<a href="https://asadabbasse2006.github.io"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:asadse2006@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/asadabbasse2006"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=asadabbasse2006&label=Profile%20views&color=3B82F6&style=flat-square" alt="views"/>
+
+</div>
 
 ---
 
-## 🚀 About Me <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7ee/giphy.gif?cid=ecf05e47a03121412db351072355d2713aed35073df64806&rid=giphy.gif" width="25px">
+## 👋 About Me
 
-- 🎓 **Software Engineering** student at COMSATS University.
-- 💻 Passionate about mobile app development, high-performance backend systems, and Applied AI.
-- ⚡ Skilled in **Python**, **FastAPI**, and **REST APIs**.
-- 🤖 Currently building with **AI Agents**, **LLMs**, and **Retrieval-Augmented Generation (RAG)**.
-- 📚 Continuously diving deeper into Machine Learning architectures.
-- 🛠️ Building real-world academic, AI-driven, and personal projects.
-- 🌱 Always exploring new technologies and improving problem-solving skills.
+I'm a **BS Software Engineering student** at **COMSATS University Islamabad, Sahiwal Campus**, focused on building **backend systems and AI-powered applications**. I enjoy turning messy, real-world problems into clean APIs and useful products.
 
----
-
-## 🛠️ Skills & Technologies <img src="https://media.giphy.com/media/WUl3W1399uLJP025pU/giphy.gif" width="30px">
-
-<p align="left">
-  
-  <!-- Languages & Frameworks -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  
-  <!-- AI & Data -->
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</p>
+- 💼 **Software Engineering Intern @ Fantech Labs**: backend development with Python/Django, REST APIs, and RAG pipelines using LangChain
+- 🎓 Currently in my 6th semester, studying software engineering fundamentals, testing, and system design
+- 🤖 Exploring LLM applications: retrieval-augmented generation, agents, and AI-assisted tooling
+- 📱 Also build cross-platform apps with Flutter and Firebase
+- 🌱 Currently learning: scalable backend architecture, vector databases, and LLM evaluation
 
 ---
 
-## 💻 Projects <img src="https://media.giphy.com/media/qgQUggAC3P4S4/giphy.gif" width="25px">
+## 🛠️ Tech Stack
 
-### 🚍 COMSATS Transport Management System (CTMS)
-- Developed a transport management system focused on high performance and clean architecture.
-- Features include route management, bus tracking, and student transport records.
-- Focused on intuitive API design, efficient backend workflows, and database management.
+**Languages**
 
-### 🤖 Generative AI & Machine Learning Exploration
-- Building applications leveraging **LLMs**, **RAG pipelines**, and autonomous **AI Agents**.
-- Exploring vector databases, prompt engineering, and framework integrations (LangChain).
-- Practical implementation of data preprocessing, NumPy, Pandas, and core ML algorithms.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+**Backend & AI**
 
-## 📈 GitHub Analytics <img src="https://media.giphy.com/media/M9P59fKZpo788L2YGS/giphy.gif" width="25px">
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=asadabbasse2006&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asadabbasse2006&layout=compact&theme=tokyonight" height="170"/>
-</p>
+**Mobile & Cloud**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadabbasse2006&theme=tokyonight" height="170"/>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-## 🧩 LeetCode Stats
+**Tools**
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/asadabbasse2006?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
-<!-- Animated Snake eating contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadabbasse2006/asadabbasse2006/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asadabbasse2006/asadabbasse2006/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asadabbasse2006/asadabbasse2006/output/github-contribution-grid-snake.svg">
-</picture>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📬 Connect With Me
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadabbasse2006)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asadabbasse2006)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asadabbasse2006)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadse2006@gmail.com)
+| Project | Description | Tech |
+|---|---|---|
+| **[AI CV Tailoring & Interview Prep Assistant](https://github.com/asadabbasse2006/REPO-NAME)** | Takes a job posting URL and a CV, then produces an ATS-friendly tailored Markdown CV (using only real CV content, no fabrication) and an interview Q&A prep sheet. | Python, FastAPI, LLMs |
+| **[Personal Portfolio](https://github.com/asadabbasse2006/asadabbasse2006.github.io)** | Dark, IDE-inspired developer portfolio with a Ctrl+K command palette, live GitHub and LeetCode stats, and micro-interactions. | HTML, CSS, JS, Bootstrap, Tailwind |
+| **[Hospital Workflow System](https://github.com/asadabbasse2006/REPO-NAME)** | *Add a one-line description of what it does and the problem it solves.* | *Add stack* |
+| **[Project Name](https://github.com/asadabbasse2006/REPO-NAME)** | *One line on what it does and why it matters.* | *Add stack* |
 
 ---
 
-<p align="center">
-  <i>"Consistency and curiosity are the keys to becoming a great developer."</i>
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=asadabbasse2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=3B82F6&text_color=F8FAFC" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadabbasse2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=F8FAFC" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadabbasse2006&theme=tokyonight&hide_border=true&background=020617&ring=3B82F6&fire=06B6D4&currStreakLabel=F8FAFC" alt="Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asadabbasse2006&bg_color=020617&color=38BDF8&line=3B82F6&point=F8FAFC&area=true&hide_border=true" alt="Activity graph" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building AI-powered tools with FastAPI and LangChain
+- 🧠 Deepening my knowledge of RAG and LLM application design
+- 🧪 Studying automated vs. manual software testing
+- 🎓 Planning my Final Year Project
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to internships, collaborations, and conversations about backend engineering and applied AI.
+
+📧 **asadse2006@gmail.com** · 🌐 **[asadabbasse2006.github.io](https://asadabbasse2006.github.io)**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:020617&height=100&section=footer" alt="footer" width="100%"/>
+
+</div>
