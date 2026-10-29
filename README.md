@@ -64,8 +64,7 @@ I'm a **BS Software Engineering student** at **COMSATS University Islamabad, Sah
 |---|---|---|
 | **[AI CV Tailoring & Interview Prep Assistant](https://github.com/asadabbasse2006/REPO-NAME)** | Takes a job posting URL and a CV, then produces an ATS-friendly tailored Markdown CV (using only real CV content, no fabrication) and an interview Q&A prep sheet. | Python, FastAPI, LLMs |
 | **[Personal Portfolio](https://github.com/asadabbasse2006/asadabbasse2006.github.io)** | Dark, IDE-inspired developer portfolio with a Ctrl+K command palette, live GitHub and LeetCode stats, and micro-interactions. | HTML, CSS, JS, Bootstrap, Tailwind |
-| **[Hospital Workflow System](https://github.com/asadabbasse2006/REPO-NAME)** | *Add a one-line description of what it does and the problem it solves.* | *Add stack* |
-| **[Project Name](https://github.com/asadabbasse2006/REPO-NAME)** | *One line on what it does and why it matters.* | *Add stack* |
+| **[Hospital Workflow System](https://github.com/asadabbasse2006/REPO-NAME)** | Solves the problem for a small hospital to manage the patients, doctors, laboratory | *Add stack* |
 
 ---
 
@@ -88,7 +87,6 @@ I'm a **BS Software Engineering student** at **COMSATS University Islamabad, Sah
 
 - 🔭 Building AI-powered tools with FastAPI and LangChain
 - 🧠 Deepening my knowledge of RAG and LLM application design
-- 🧪 Studying automated vs. manual software testing
 - 🎓 Planning my Final Year Project
 
 ---
